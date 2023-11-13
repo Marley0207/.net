@@ -1,0 +1,193 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Test1
+build_property.RootNamespace = Test1
+build_property.ProjectDir = c:\Users\empir\OneDrive\Documentos\POW_II\Test1\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = c:\Users\empir\OneDrive\Documentos\POW_II\Test1
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/Carros_Duenios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fycm9zX0R1ZW5pb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/Carros_Duenios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fycm9zX0R1ZW5pb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/Carros_Duenios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fycm9zX0R1ZW5pb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/Carros_Duenios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fycm9zX0R1ZW5pb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/Carros_Duenios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fycm9zX0R1ZW5pb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/casas/detalles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FzYXNcZGV0YWxsZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/casas/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2FzYXNcaW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/Casas_Duenios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FzYXNfRHVlbmlvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/Casas_Duenios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FzYXNfRHVlbmlvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/Casas_Duenios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FzYXNfRHVlbmlvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/Casas_Duenios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FzYXNfRHVlbmlvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/Casas_Duenios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FzYXNfRHVlbmlvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/Duenios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHVlbmlvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/Duenios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHVlbmlvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/Duenios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHVlbmlvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/Duenios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHVlbmlvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/Duenios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHVlbmlvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/Mayus/Perfil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF5dXNcUGVyZmlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/Usuarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/Usuarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/Usuarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/Usuarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/Usuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/Usuarios/ordenarUsuarios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3Ncb3JkZW5hclVzdWFyaW9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/Venta_Carros/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFfQ2Fycm9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/Venta_Carros/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFfQ2Fycm9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/Venta_Carros/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFfQ2Fycm9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/Venta_Carros/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFfQ2Fycm9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/Venta_Carros/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFfQ2Fycm9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/Venta_Carros/Ranking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFfQ2Fycm9zXFJhbmtpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/Venta_Carros/Ranking2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFfQ2Fycm9zXFJhbmtpbmcyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/Venta_Motos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFfTW90b3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/Venta_Motos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFfTW90b3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/Venta_Motos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFfTW90b3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/Venta_Motos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFfTW90b3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/Venta_Motos/Imagenes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFfTW90b3NcSW1hZ2VuZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/Venta_Motos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFfTW90b3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/empir/OneDrive/Documentos/POW_II/Test1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-fcsn56iylk

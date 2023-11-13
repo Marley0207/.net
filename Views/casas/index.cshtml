@@ -1,0 +1,39 @@
+@model List<Test1.Models.Venta_Casas>
+
+<form class="form-inline" method="POST" action="/casas/search">
+    <label class="mb-1">Buscar Casa</label>
+    <div class="input-group mb-3">
+        @if (ViewData["verTodo"] != null && (bool)ViewData["verTodo"])
+                {
+                    <a class="btn btn-outline-secondary" style="margin-right: 7px;" 
+                        href="/casas" id="button-addon1">Ver Todo</a>
+                }
+        <button class="btn btn-outline-secondary" type="submit" id="button-addon1" 
+            style="margin-right: 7px;" >Search</button>
+        <input type="text" class="form-control"  required name="name" >
+        
+    </div>
+</form>
+
+<div class="row text-center">
+@foreach(var item in Model)
+{
+    <div class="col-md-4">
+    <div class="card" style="width: 18rem;" class="card mb-3">
+    <img src="@item.photo" class="card-img-top" alt="...">
+    <div class="card-body">
+        <h1 class="card-title">@item.nombre</h1>
+        <h5 class="card-title">$@item.precio</h5>
+        <p class="card-text">@item.descripcion</p>
+    </div>
+    <div class="card-body">
+        <a href="/casas/detalles/@item.id" class="card-link">Detalles</a>
+    </div>
+    </div>
+    </div>
+
+}
+</div>
+
+
+

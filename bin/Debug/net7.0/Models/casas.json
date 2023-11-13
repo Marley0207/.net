@@ -1,0 +1,42 @@
+[
+	{
+		"id": 1,
+		"precio": "750",
+		"nombre": "Casa Bosque encantado",
+		"descripcion": "La cabaña en la imagen emana una sensación de nostalgia y serenidad. Su diseño tradicional y los detalles encantadores la convierten en un lugar idílico para aquellos que aprecian el encanto de lo rústico y lo clásico.",
+		"moredescripcion": "encantadora casa de campo con un diseño tradicional y pintoresco. La vivienda parece sacada de un cuento de hadas, con detalles encantadores que le otorgan un ambiente acogedor y nostálgico. La cabaña está construida con materiales naturales, como la piedra y la madera, lo que le confiere un aspecto rústico y auténtico. El techo a dos aguas, cubierto con tejas de madera o pizarra, añade un toque tradicional y atractivo. La fachada de la cabaña presenta detalles decorativos como las ventanas con marcos de madera y las contraventanas. Una pequeña escalinata conduce a la puerta principal, que tiene un diseño acogedor y rústico.",
+		"photo": "https://i.pinimg.com/564x/ae/44/2d/ae442dd09a720955a5cfd347adf284e4.jpg"	
+	},
+	{
+		"id": 2,
+		"precio": "800",
+		"nombre": "Villa Serenidad",
+		"descripcion": "La casa en la imagen es un ejemplo de diseño arquitectónico moderno y minimalista. La combinación de grandes ventanales y elementos geométricos crea un aspecto audaz y elegante. Esta vivienda parece estar diseñada para aquellos que valoran la estética contemporánea y desean una conexión fluida entre los espacios interiores y exteriores.",
+		"moredescripcion": "Casa de estilo moderno y vanguardista con un diseño arquitectónico distintivo. La vivienda se caracteriza por su enfoque minimalista y sus líneas limpias y definidas. La fachada de la casa está dominada por grandes paneles de vidrio que se extienden desde el suelo hasta el techo. Estos amplios ventanales permiten una generosa entrada de luz natural y ofrecen vistas panorámicas del entorno exterior. La casa parece estar diseñada para fusionar los espacios interiores y exteriores, creando una conexión fluida entre ellos. El diseño exterior está marcado por la geometría, con formas y ángulos modernos y bien definidos. Los materiales utilizados podrían incluir hormigón, metal y vidrio, lo que confiere a la casa una apariencia contemporánea y elegante.",
+		"photo": "https://i.pinimg.com/564x/48/8a/7d/488a7dc8ed0b041d0abf0bda70b31deb.jpg"	
+	},
+	{
+		"id": 3,
+		"precio": "500",
+		"nombre": "Casa Herencia Encantada",
+		"descripcion": "La cabaña en la imagen evoca una sensación de calidez y nostalgia. Su diseño rústico y su ubicación en medio de la naturaleza hacen que parezca el lugar ideal para desconectar y disfrutar de la serenidad del entorno.",
+		"moredescripcion":"Una encantadora cabaña en un entorno natural. La cabaña tiene un estilo rústico y acogedor que se integra perfectamente con el paisaje circundante. La estructura de la cabaña está construida principalmente con troncos de madera, lo que le otorga un carácter tradicional y un aspecto campestre. El techo a dos aguas está cubierto con tejas de madera o pizarra, lo que añade un toque clásico y protege la estructura de los elementos naturales. La cabaña cuenta con varios detalles encantadores, como las ventanas con marcos de madera y contraventanas, que agregan un toque pintoresco. La puerta principal tiene un diseño rústico y una pequeña plataforma de madera que conduce a ella.",
+		"photo": "https://i.pinimg.com/originals/c7/4f/8c/c74f8cda80ebb3cf66615663b87ceff2.jpg"	
+	},
+	{
+		"id": 4,
+		"precio": "1000",
+		"nombre": "Casa Modernidad Serena",
+		"descripcion": "Esta casa esta diseñada para enfatizar la funcionalidad y la estética moderna. Su enfoque en la simplicidad, la limpieza de líneas y la integración con el entorno la convierten en una residencia contemporánea de alta gama.",
+		"moredescripcion": "Esta moderna casa presenta una estética minimalista y líneas limpias que definen su diseño. La fachada de la casa está revestida en su mayoría con paneles de concreto o material similar, lo que le confiere un aspecto sofisticado y vanguardista. Las superficies lisas y uniformes se combinan con grandes ventanales de piso a techo que permiten una abundante entrada de luz natural y establecen una conexión visual entre el interior y el exterior. El diseño arquitectónico es geométrico y simétrico, con una disposición cuidadosa de las formas y volúmenes. El techo plano, característico de la arquitectura contemporánea, aporta una sensación de modernidad y elegancia. El paisaje que rodea la casa es sutil y ordenado, en consonancia con la estética general del diseño. Los elementos naturales, como árboles y arbustos, complementan la estructura y suavizan la línea entre la casa y el entorno.",
+		"photo": "https://i.pinimg.com/564x/96/7c/68/967c68a91355e556ca7d62920d165354.jpg"	
+	},
+	{
+		"id": 5,
+		"precio": "15000",
+		"nombre": "Casa Zen Jardin",
+		"descripcion": "esta casa es una encantadora combinación de elementos arquitectónicos tradicionales y modernos, ubicada en un entorno natural que realza su belleza",
+		"moredescripcion": "Casa con un diseño encantador y acogedor. La casa está ubicada en un entorno rodeado de naturaleza, lo que le confiere una sensación de tranquilidad y serenidad. La fachada de la casa muestra un estilo arquitectónico que combina elementos tradicionales y modernos. Tiene un techo a dos aguas con tejas, lo que le da un toque clásico. La casa está revestida con una combinación de materiales, incluyendo piedra y madera, lo que agrega textura y profundidad visual al diseño. En la parte delantera de la casa, hay grandes ventanales que permiten la entrada de luz natural y brindan vistas panorámicas del paisaje circundante. Esto crea una conexión visual y física con el entorno exterior. La vegetación cuidadosamente dispuesta alrededor de la casa, junto con el camino empedrado que conduce a la entrada principal, contribuyen a la sensación acogedora y hogareña del lugar. El diseño del jardín es encantador y en armonía con el estilo general de la casa.",
+		"photo": "https://i.pinimg.com/564x/36/fa/c1/36fac10c250fca451c785effdfaa5eaf.jpg"	
+	}	
+]

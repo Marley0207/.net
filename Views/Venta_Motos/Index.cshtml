@@ -1,0 +1,53 @@
+@model IEnumerable<Test1.Models.Venta_Moto>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Venta De Motos</h1>
+
+<a  class="btn btn-primary" asp-action="Create">Crear Nueva Moto</a>
+<a class="btn btn-outline-primary ms-2" asp-action="Imagenes">Todas las imagenes</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Precio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Marca)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descripcion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Photo)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Precio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Marca)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descripcion)
+            </td>
+            <td>
+                <img src="@item.Photo" width="150px" alt=""> 
+            </td>
+            <td>
+                <a class="btn btn-outline-secondary" asp-action="Edit" asp-route-id="@item.Id">Editar</a>
+                <a class="btn btn-outline-secondary" asp-action="Details" asp-route-id="@item.Id">Detalles</a> |
+                <a class="btn btn-outline-secondary" asp-action="Delete" asp-route-id="@item.Id">Eliminar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,35 @@
+@model IEnumerable<Test1.Models.Usuario>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Usuarios Registrados</h1>
+
+<p >
+    <a class="btn btn-primary" asp-action="Create">Crear nuevo Usuario</a>
+</p>
+    <label for="orden">Ordenar por:</label>
+    <a asp-action="ordenarUsuario" class="btn btn-outline-primary">Orden Alfabetico</a>
+
+<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="false" aria-controls="panelsStayOpen-collapseOne">
+    Ver Informacion de Usuarios
+</button>
+@foreach (var item in Model) {
+<div class="accordion" id="accordionPanelsStayOpenExample">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="panelsStayOpen-headingOne">
+      <button class="accordion-button" type="button">
+        <strong style="padding-right: 20px;">Usuario: </strong> @item.Nombre
+      </button>
+    </h2>
+    <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingOne">
+      <div class="accordion-body">
+        <strong>Nacionalidad: </strong> @item.Nacionalidad <br>
+        <strong>Correo: </strong> @item.Correo <br>
+        <strong>Descripcion: </strong> @item.Descripcion
+      </div>
+    </div>
+  </div>
+</div>
+}

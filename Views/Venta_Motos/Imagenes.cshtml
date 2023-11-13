@@ -1,0 +1,17 @@
+@model List<Test1.Models.Venta_Moto>
+
+<div class="container">
+    <h1 class="text-center mb-5">Imagenes de motos</h1>
+
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            @if (!string.IsNullOrEmpty(item.Photo))
+            {
+                <div class="col-md-2 mb-3">
+                    <img src="@item.Photo" class="img-fluid" style="max-width: 100%;">
+                </div>
+            }
+        }
+    </div>
+</div>
